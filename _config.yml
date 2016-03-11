@@ -1,14 +1,26 @@
-layout_spectrum: 0.7749684
-typography_spectrum: 0.8034824
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.1071845
-  lightness: 0.6855899
   brandStrength: 0.4862603
-  rhythmicContrast: 0.09368518
+  lightness: 0.6855899
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#8A8B8B'
+    - '#4B545B'
+    - '#272731'
+    - '#0C0D0E'
+    - '#D0D0CE'
+  rhythmicContrast: 0.09368518
+typography_spectrum: 0.8034824
+layout_spectrum: 0.6425532
 name: Artwork
