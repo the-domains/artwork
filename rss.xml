@@ -4,8 +4,15 @@
         <description><![CDATA[Artwork]]></description>
         <link>https://thegrid.ai/artwork/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Mar 2016 13:33:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2016 13:33:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/artwork/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tide Pool]]></title>
+            <description><![CDATA[<article><h1>Tide Pool</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ecb90f80dc99a92290a4f2dd655b330b0f3c6378.png"></article>]]></description>
+            <link>https://thegrid.ai/artwork/tide-pool/index.html</link>
+            <guid isPermaLink="false">163679cc-39ef-43f5-85f9-d5bc21cdaeb8</guid>
+            <pubDate>Fri, 11 Mar 2016 13:33:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Misty Field]]></title>
             <description><![CDATA[<article><h1>Misty Field</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0c16094bb647f37fd0f3ae344300bce1766ddafe.png"></article>]]></description>
