@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Artwork]]></title>
         <description><![CDATA[Artwork]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/artwork/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Mar 2016 13:08:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 11 Mar 2016 13:33:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/artwork/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Misty Field]]></title>
+            <description><![CDATA[<article><h1>Misty Field</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0c16094bb647f37fd0f3ae344300bce1766ddafe.png"></article>]]></description>
+            <link>https://thegrid.ai/artwork/misty-field/index.html</link>
+            <guid isPermaLink="false">940c2775-2009-422b-b066-3f90b7952452</guid>
+            <pubDate>Fri, 11 Mar 2016 13:32:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wild Flower]]></title>
             <description><![CDATA[<article><h1>Wild Flower</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3910200e1de66dede45244122cd71c1cc4a52080.png"></article>]]></description>
-            <link>undefinedwild-flower/index.html</link>
+            <link>https://thegrid.ai/artwork/wild-flower/index.html</link>
             <guid isPermaLink="false">11f65d90-2362-4668-8d36-3c63a0d005f9</guid>
             <pubDate>Fri, 11 Mar 2016 13:07:27 GMT</pubDate>
         </item>
