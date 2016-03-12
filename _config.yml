@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.8034824
 color:
-  saturation: 0.1071845
+  saturation: 0.7489362
   brandStrength: 0.4862603
-  lightness: 0.6855899
+  lightness: 0.9425532
   brandColors:
     - '#8A8B8B'
     - '#4B545B'
     - '#272731'
     - '#0C0D0E'
     - '#D0D0CE'
-  rhythmicContrast: 0.09368518
-typography_spectrum: 0.8034824
+  rhythmicContrast: 0.2808511
 layout_spectrum: 0.6425532
 name: Artwork
