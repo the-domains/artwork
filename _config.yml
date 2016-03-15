@@ -1,3 +1,7 @@
+name: Artwork
+favicon: null
+layout_spectrum: 0.6425532
+typography_spectrum: 0.8034824
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.8034824
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8893617
-  brandStrength: 0.4862603
-  lightness: 0.6021277
   brandColors:
-    - '#8A8B8B'
-    - '#4B545B'
-    - '#272731'
-    - '#0C0D0E'
-    - '#D0D0CE'
+    - '#9a9865'
+    - '#161c10'
+    - '#ffffff'
+    - '#3055ae'
+    - '#b3c763'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
   rhythmicContrast: 0.2808511
-layout_spectrum: 0.6425532
-name: Artwork
+purpose: []
