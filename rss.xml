@@ -4,11 +4,11 @@
         <description><![CDATA[Artwork]]></description>
         <link>https://thegrid.ai/artwork/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 00:45:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2016 02:52:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/artwork/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Wild Flowers]]></title>
-            <description><![CDATA[<article><h1>Wild Flowers</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ece469f-dc21-4074-bf12-1575d6f85500.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Wild Flowers</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e5c9a21bd17d0f27ee5912ed6a245cb85b7169f5.png"></article>]]></description>
             <link>https://thegrid.ai/artwork/wild-flowers/index.html</link>
             <guid isPermaLink="false">5810f91f-4025-48a7-a5eb-b913e1ce02da</guid>
             <pubDate>Sat, 12 Mar 2016 00:44:51 GMT</pubDate>
@@ -23,9 +23,9 @@
         <item>
             <title><![CDATA[Majestic Lion ]]></title>
             <description><![CDATA[<article><h1>Majestic Lion </h1><p>Majestic Lion</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eff751e044d2dda1d1e365612ab40799cd997c42.png"></article>]]></description>
-            <link>https://thegrid.ai/artwork/majestic-lion/index.html</link>
+            <link>urn:uuid:a643a948-2bb2-48be-9ba5-6c51c13e8ea7</link>
             <guid isPermaLink="false">3b40b788-b57c-4b08-b8a8-70c4cc84da87</guid>
-            <pubDate>Fri, 11 Mar 2016 13:46:08 GMT</pubDate>
+            <pubDate>Tue, 15 Mar 2016 02:52:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
