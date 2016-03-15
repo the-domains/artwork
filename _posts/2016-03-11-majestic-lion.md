@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Majestic Lion
-datePublished: '2016-03-15T02:52:50.699Z'
-dateModified: '2016-03-15T02:52:43.008Z'
+datePublished: '2016-03-15T02:53:21.631Z'
+dateModified: '2016-03-15T02:52:58.099Z'
 author: []
 title: 'Majestic Lion '
 sourcePath: _posts/2016-03-11-majestic-lion.md
