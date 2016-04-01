@@ -1,7 +1,7 @@
 name: Artwork
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.8034824
+layout_spectrum: 0.23959
+typography_spectrum: 0
 collections:
   - index:
       path: /
